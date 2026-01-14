@@ -1,5 +1,5 @@
 <h2>
-  Hello there, fellow <coders/>! 👋
+  "hello word😊" <coders/>! 👋
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h2>
 
@@ -9,11 +9,7 @@
 
 ---
 
-## ⚡ Technologies
-- 💻 HTML, CSS, JavaScript
-- 🐍 Python
-- ☕ Java
-- 🗄️ Databases (SQL)
+
 - 🌱 Still learning and growing
 
 ---
