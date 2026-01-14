@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](#)
 
-# hiiiiiiiiii 👀
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+## hiiiiiiiiii 👀
+
 
 <h2>
   "hello word"😊 <coders/>! 
