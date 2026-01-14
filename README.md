@@ -1,7 +1,6 @@
-<div align="center">
-<img scr="https://githup.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="welcome"/>
+
 <h2>
-  "hello word"😊 <coders/>! 👋
+  "hello word"😊 <coders/>! 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h2>
 
